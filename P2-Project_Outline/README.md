@@ -18,13 +18,11 @@ for server side REST API Node with express framework.
 - User login - user will be able to create accounts if they are interested to write something (articles) and to access this app.
 - Create post - user can create a post, they can write it down for other users.
 - CRUD - users will be able to create articles about something, read, update if it's necessary and delete.
-- 
 ### Technologies
 Node js, express for server side, react for client and SQL Server for data base.
 
 ### What I'll Have to Learn
- I'll learn how to create responsive webpages, connecting front-end with back-end,
-I'll learn how HTTP requests will work.
+ I'll learn how to create responsive webpages, connecting front-end with back-end, learn how HTTP requests will work.
 
 ### Project Tracker
 Link to your Trello board here
